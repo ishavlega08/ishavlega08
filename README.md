@@ -76,7 +76,3 @@ alt="Figma"/>
 &nbsp; <a href="https://www.linkedin.com/in/ishav-lega/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/64/linkedin.png" width="50" /></a>
 <!-- &nbsp; <a href="https://thesohailjafri.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/64/web-design.png" width="50" /></a>
 </div> -->
-
-<div align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=thesohailjafri" id="counter">
-</div>
