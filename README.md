@@ -37,24 +37,15 @@ alt="Express.js"/>
 alt="PostgreSQL"/>
 <img src="https://img.shields.io/badge/Mongoose-47A248?style=for-the-badge&logo=mongoose&logoColor=white"
 alt="Mongoose"/>
-<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"
-alt="MongoDB"/>
 
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"
 alt="Docker"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"
-alt="Vercel"/>
-<img src="https://img.shields.io/badge/MacOS--9cf?logo=Apple&style=social&logoColor=black"
-alt="Linux"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"
 alt="Git"/>
-
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"
 alt="Visual Studio Code"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"
 alt="Postman"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"
-alt="Figma"/>
 
 ## 📊 My Github Stats
 
