@@ -50,11 +50,13 @@ alt="Postman"/>
 ## 📊 My Github Stats
 
 <div align="left">
-<img alt="ishavlega08's Github streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ishavlega08&theme=algolia"/>
+<!-- <img alt="ishavlega08's Streak Stats" src="https://streak-stats.demolab.com?user=ishavlega08&theme=algolia"/> -->
 <br/>
-<img alt="ishavlega08's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ishavlega08&theme=algolia&show_icons=true&hide_border=false&count_private=true"/>
+  
+<img alt="ishavlega08's Github Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/ishavlega08?cardType=level&theme=algolia&preferLogin=false"/>
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishavlega08&layout=compact&theme=algolia" alt="ishavlega08's Github Lang"/>
+<!-- <a href="https://github.com/ishavlega08/github-readme-activity-graph"><img alt="ishavlega08's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ishavlega08&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>   -->
 </div>
 
 ## 🤝🏻 Connect with Me
